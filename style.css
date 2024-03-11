@@ -1,0 +1,19 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+   margin-top: 20%;
+   color: white;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-shadow: 7px 8px 10px red;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 7px 7px 7px rgba(191, 18, 18, 0.88);
+
+}
